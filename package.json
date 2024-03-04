@@ -1,0 +1,26 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "it is crouwdfunding platforme that help to rising fund for starttup/idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "crowdfunding",
+    "kickstart",
+    "blockchain",
+    "ethereum",
+    "fund",
+    "campaigns"
+  ],
+  "author": "NitinCode",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.2",
+    "solc": "^0.4.17",
+    "web3": "^1.6.0"
+  }
+}
