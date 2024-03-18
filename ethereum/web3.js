@@ -12,9 +12,7 @@ if (typeof window !== "undefined" && typeof window.ethereum !== "undefined") {
   }
 } else {
   // We are on the server *OR* the user is not running MetaMask.
-  const provider = new Web3.providers.HttpProvider(
-    "https://sepolia.infura.io/v3/0816730807ce471ea107f4ecdf834614"
-  );
+  const provider = new Web3.providers.HttpProvider(process.env.NODE_API);
   web3 = new Web3(provider);
 }
 
