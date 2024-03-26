@@ -22,7 +22,7 @@ We will update very soon!
 
 ## Screenshots
 
-![ScreenShot](https://raw.github.com/NitinVadadoriyaa/JerryKickStart/blob/master/screenshort/campaign-detail.png)
+![ScreenShot](https://github.com/NitinVadadoriyaa/JerryKickStart/blob/master/screenshort/campaign-detail.png)
 
 
 
@@ -101,3 +101,4 @@ Command For Run :
 
 ## Made By
 NitinVadadoriya
+![Logo](https://github.com/NitinVadadoriyaa/JerryKickStart/blob/master/icons8-ethereum-144.png)
