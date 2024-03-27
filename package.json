@@ -6,8 +6,8 @@
   "scripts": {
     "test": "mocha",
     "dev": "node server.js",
-    "build": "yarn; yarn build",
-    "start": "yarn start",
+    "build": "next build",
+    "start": "node server.js",
     "lint": "next lint"
   },
   "keywords": [
